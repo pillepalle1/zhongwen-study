@@ -1,0 +1,433 @@
+*  Elementary Mandarin I
+
+#  _____ _                           _                   
+# | ____| | ___ _ __ ___   ___ _ __ | |_ __ _ _ __ _   _ 
+# |  _| | |/ _ \ '_ ` _ \ / _ \ '_ \| __/ _` | '__| | | |
+# | |___| |  __/ | | | | |  __/ | | | || (_| | |  | |_| |
+# |_____|_|\___|_| |_| |_|\___|_| |_|\__\__,_|_|   \__, |
+#                                                  |___/ 
+#  __  __                 _            _         ___     
+# |  \/  | __ _ _ __   __| | __ _ _ __(_)_ __   |_ _|    
+# | |\/| |/ _` | '_ \ / _` |/ _` | '__| | '_ \   | |     
+# | |  | | (_| | | | | (_| | (_| | |  | | | | |  | |     
+# |_|  |_|\__,_|_| |_|\__,_|\__,_|_|  |_|_| |_| |___|    
+
+
+| Chinese Character | Pinyin        | Meaning                                     |
+|-------------------+---------------+---------------------------------------------|
+| 我                | wǒ            | I                                           |
+| 你                | nǐ            | You                                         |
+| 他/她             | tā            | He/ She                                     |
+| 我们              | wǒmen         | We                                          |
+| 你们              | nǐmen         | You                                         |
+| 他们              | tāmen         | They                                        |
+| 是                | shì           | to be                                       |
+| 说                | shuō          | to speak                                    |
+| 姓                | xìng          | to have surname of                          |
+| 老师              | lǎoshī        | teacher                                     |
+| 学生              | xuéshēng      | student                                     |
+| 中文              | zhōngwén      | Chinese language                            |
+| 英文              | yīngwén       | English language                            |
+| 贵姓?             | guìxìng       | What is your honorable surname?             |
+|-------------------+---------------+---------------------------------------------|
+| 问好              | wènhǎo        | greetings                                   |
+| 先生              | xiānsheng     | Mr                                          |
+| 小姐              | xiǎojiě       | Miss                                        |
+| 不                | bù            | no/ not                                     |
+| 也                | yě            | also                                        |
+| 吗                | ma            | question mark                               |
+| 葡萄牙            | pútáoyá       | portuguese                                  |
+| 美国              | měiguó        | american                                    |
+| 日本              | rìběn         | japanese                                    |
+| 菲律宾            | fēilǜbīn      | philippine                                  |
+| 印度              | yìndù         | indian                                      |
+| 英国              | yīngguó       | british                                     |
+|-------------------+---------------+---------------------------------------------|
+| 家                | jiā           | family                                      |
+| 照片              | zhàopiàn      | picture                                     |
+| 爸爸              | bàba          | father                                      |
+| 妈妈              | māma          | mother                                      |
+| 哥哥              | gēge          | elder brother                               |
+| 弟弟              | dìdi          | younger brother                             |
+| 姐姐              | jiějie        | elder sister                                |
+| 妹妹              | mèimei        | younger sister                              |
+| 儿子              | érzi          | son                                         |
+| 女儿              | nǚér          | daughter                                    |
+| 小                | xiǎo          | small                                       |
+| 中                | zhōng         | middle                                      |
+| 工作              | gōngzuò       | job; to work                                |
+| 律师              | lǜ shī        | lawyer                                      |
+| 医生              | yī shēng      | doctor                                      |
+| 护士              | hù shi        | nurse                                       |
+| 事儿              | shìr          | matter/ business                            |
+| 忙                | máng          | busy                                        |
+| 吃                | chī           | to eat                                      |
+| 饭                | fàn           | meal/ rice                                  |
+| 菜                | cài           | dishes/ cuisine                             |
+| 同学              | tóngxué       | classmate                                   |
+| 朋友              | péngyou       | friend                                      |
+| 您                | nín           | You (honorific appellation)                 |
+| 见                | jiàn          | to visit/ to meet                           |
+|-------------------+---------------+---------------------------------------------|
+| 周沫              | zhōumò        | weekend                                     |
+| 打球              | dǎqiú         | to play ball                                |
+| 看电视            | kàndiànshì    | watch TV                                    |
+| 看电影            | kàndiànyǐng   | watch a movie                               |
+| 看书              | kànshū        | read books                                  |
+| 跳舞              | tiàowǔ        | dance                                       |
+| 听音乐            | tīngyīnyuè    | listen to music                             |
+| 逛街              | guàngjiē      | do shopping                                 |
+| 跑步              | pǎobù         | running                                     |
+| 睡觉              | shuìjiào      | sleep                                       |
+| 运动              | yùndòng       | sports                                      |
+| 上网              | shàngwǎng     | to surf the internet                        |
+|-------------------+---------------+---------------------------------------------|
+| 很忙              | hěnmáng       | very busy                                   |
+| 下课              | xiàkè         | finish class                                |
+| 下班              | xiàbān        | get off work                                |
+| 回家              | huíjiā        | go home                                     |
+| 睡觉              | shuìjiào      | go to sleep                                 |
+|-------------------+---------------+---------------------------------------------|
+| 请进              | qǐngjìn       | please come in                              |
+| 请坐              | qǐngzuò       | please sit                                  |
+| 很好              | hěnhǎo        | very good                                   |
+| 不错              | bùcuò         | not bad                                     |
+| 杯                | bēi           | a cup/ glass of (measure word)              |
+| 瓶                | píng          | a bottle of (measure word)                  |
+| 水                | shuǐ          | water                                       |
+| 茶                | chá           | tea                                         |
+| 咖啡              | kāfēi         | coffee                                      |
+| 可乐              | kělè          | cola                                        |
+| 请客              | qǐngkè        | to treat someone (to dinner, a coffee, etc) |
+| 主人              | zhǔrén        | the host                                    |
+| 客人              | kèrén         | the guest                                   |
+| 可以              | kěyǐ          | can/ may                                    |
+| 来                | lái           | come                                        |
+|-------------------+---------------+---------------------------------------------|
+| 请进              | qǐngjìn       | please come in                              |
+| 请坐              | qǐngzuò       | please sit                                  |
+| 喝                | hē            | to drink                                    |
+|-------------------+---------------+---------------------------------------------|
+|                   | rènshì        | to be acquainted with; to recognize         |
+| 高兴              | gāoxìng       | happy, pleased                              |
+| 介绍              | jièshào       | to introduce                                |
+| 在                | zài           | at, in, on                                  |
+| 学校              | xuéxiào       | school                                      |
+| 教室              | jiàoshì       | classroom                                   |
+| 办公室            | bàngōngshì    | office                                      |
+| 漂亮              | piàoliang     | pretty                                      |
+| 有意思            | yǒuyìsi       | interesting                                 |
+|-------------------+---------------+---------------------------------------------|
+| (没)问题          | (méi) wèntí   | (no) question, problem                      |
+| 约                | yuē           | appoint                                     |
+| 凯辉              | kǎi huī       | to have a meeting                           |
+| 活动              | huódòng       | activity                                    |
+| 四点以后          | sì diǎn yǐhòu | after 4 o'clock                             |
+| 道                | dào           | to go to; to arrive                         |
+| 等               | děng          | to wait; to wait for                        |
+| 有空              | yǒu kòng      | have free time                              |
+| 手机              | shǒujī        | mobile phone                                |
+|-------------------+---------------+---------------------------------------------|
+
+
+*  Elementary Mandarin II
+
+#  _____ _                           _                   
+# | ____| | ___ _ __ ___   ___ _ __ | |_ __ _ _ __ _   _ 
+# |  _| | |/ _ \ '_ ` _ \ / _ \ '_ \| __/ _` | '__| | | |
+# | |___| |  __/ | | | | |  __/ | | | || (_| | |  | |_| |
+# |_____|_|\___|_| |_| |_|\___|_| |_|\__\__,_|_|   \__, |
+#                                                  |___/ 
+#  __  __                 _            _         ___ ___ 
+# |  \/  | __ _ _ __   __| | __ _ _ __(_)_ __   |_ _|_ _|
+# | |\/| |/ _` | '_ \ / _` |/ _` | '__| | '_ \   | | | | 
+# | |  | | (_| | | | | (_| | (_| | |  | | | | |  | | | | 
+# |_|  |_|\__,_|_| |_|\__,_|\__,_|_|  |_|_| |_| |___|___|
+
+
+** Related to Class 1
+
+| Chinese Character | Pinyin    | Meaning            |
+|-------------------+-----------+--------------------|
+| 新                | xīn       | new                |
+| 生词              | shēngcí   | vocabulary         |
+| 写                | xiě       | write              |
+| 听                | tīng      | hear               |
+| 汉字              | hànzì     | Chinese characters |
+| 拼音              | pīnyīn    | pinyin             |
+| 句子              | jùzi      | sentence           |
+| 语法              | yǔfǎ      | grammar            |
+| 难                | nán       | hard               |
+| 容易              | róngyì    | easy               |
+| 练习              | liànxí    | practice           |
+| 预习              | yùxí      | preview            |
+| 复习              | fùxí      | review             |
+| 太阳              | tàiyáng   | sun                |
+| 晴天              | qíngtiān  | sunny day          |
+| 阴天              | yīntiān   | overcast day       |
+| 多云              | duōyún    | cloudy day         |
+| 台风              | táifēng   | typhoon            |
+| 下雨              | xiàyǔ     | rainy day          |
+| 下雪              | xiàxuě    | snowy day          |
+| 暖和              | nuǎnhuo   | warm               |
+| 冷                | lěng      | cold               |
+| 凉快              | liángkuài | cool               |
+| 热                | rè        | hot                |
+
+
+** Related to Class 2
+
+| Chinese Character | Pinyin    | Meaning      |
+|-------------------+-----------+--------------|
+| 太阳              | tàiyáng   | sun          |
+| 晴天              | qíngtiān  | sunny day    |
+| 阴天              | yīntiān   | overcast day |
+| 多云              | duōyún    | cloudy day   |
+| 台风              | táifēng   | typhoon      |
+| 下雨              | xiàyǔ     | rainy day    |
+| 下雪              | xiàxuě    | snowy day    |
+| 暖和              | nuǎnhuo   | warm         |
+| 冷                | lěng      | cold         |
+| 凉快              | liángkuài | cool         |
+| 热                | rè        | hot          |
+
+
+** Related to Class 3
+
+| Chinese Character | Pinyin       | Meaning                         |
+|-------------------+--------------+---------------------------------|
+| 一点儿            | yidiǎnr      | a little (negative connotation) |
+| 得多              | (deduo)      | much more                       |
+| 天气预报          | tiānqì yùbào | the weather forecast says       |
+| 网上              | wǎngshàng    | on the internet                 |
+| 以前              | yǐqián       | formerly; before                |
+| 现在              | xiànzài      | these days; now                 |
+| 钱                | qián         | money                           |
+|                   | hǎochī       | delicious (to eat)              |
+|                   | hǎohē        | delicious (to drink)            |
+| 难                | nán          | hard; difficult                 |
+| 容易              | róngyi       | easy                            |
+| 快                | kuài         | fast                            |
+| 慢                | màn          | slow                            |
+| 老家              | lǎojiā       | hometown                        |
+
+
+** Related to Class 4
+
+| Chinese Character | Pinyin         | Meaning                          |
+|-------------------+----------------+----------------------------------|
+| 颜色              | yánsè          | color                            |
+| 白色              | báisè          | white color                      |
+| 黑色              | hēisè          | black color                      |
+| 绿色              | lǜsè           | green color                      |
+| 红色              | hóngsè         | red color                        |
+| 黄色              | huángsè        | yellow color                     |
+| 蓝色              | lánsè          | blue color                       |
+|-------------------+----------------+----------------------------------|
+| 一双鞋            | yì shuāng xié  | a pair of shoes                  |
+| 高跟鞋            | gāogēn xié     | high heels                       |
+| 球鞋              | qiú xié        | sneakers                         |
+|-------------------+----------------+----------------------------------|
+| 舒服              | shūfu          | comfortable                      |
+| 便宜              | piányi         | cheap; inexpensive               |
+| 贵                | guì            | honorable; expensive             |
+|-------------------+----------------+----------------------------------|
+| 出去              | chū qù         | to go out                        |
+| 回去              | huí qù         | to go back; to return            |
+| 回来              | huí lái        | to come back                     |
+|-------------------+----------------+----------------------------------|
+| 怎么办            | zěnmebàn       | do what / do how                 |
+| 应该              | yīnggāi        | should; ought to                 |
+|                   | gāngcái        | just now; a moment ago           |
+|                   | zuò fēijī      | go by airplane                   |
+| 公共汽车          | gōnggòng qìchē | bus                              |
+| 好玩儿            | hǎowánr        | fun, amusing, interesting        |
+| 糟糕              | zāogāo         | in a terrible mess; how terrible |
+| 非常              | fēicháng       | very, extremely, exceedingly     |
+| 蛋挞              | dàntá          | egg tarte                        |
+| 公园              | gōngyuánr      | park                             |
+| 约                | yuē            | ask sb to do something           |
+| 在家看碟          | zàijiā kàndié  | watch a movie at home            |
+
+
+**  Related to Class 6
+
+| Chinese Character | Pinyin            | Meaning                      |
+|-------------------+-------------------+------------------------------|
+| 饭馆              | fànguǎnr          | restaurant                   |
+| (一张)桌子        | (yī zhāng) zhuōzi | (a) table                    |
+| (一把)椅子        | (yī bǎ) yǐzi      | (a) chair                    |
+| (一个)位子        | (yī gè) wèizi     | (a) seat                     |
+| 服务员            | fúwùyuán          | waiter; attendant            |
+| 服务              | fúwù              | to serve; to provide service |
+| 客人              | kèrén             | guest                        |
+| 菜单              | càidān            | menu                         |
+| 点菜              | diǎncài           | to order food                |
+| 这些              | zhèxiē            | these                        |
+| 那些              | nàxiē             | those                        |
+| 汤                | tāng              | soup                         |
+| 饺子              | jiǎozi            | dumpling                     |
+|-------------------+-------------------+------------------------------|
+| 豆腐              | dòufu             | tofu; bean curd              |
+| 小白菜            | xiǎo báicài       | bok choy                     |
+| 黄瓜              | huángguā          | cucumber                     |
+| 青菜              | qīngcài           | green/ leafy vegetable       |
+|-------------------+-------------------+------------------------------|
+| 鱼                | yú                | fish                         |
+| 猪肉              | zhūròu            | pork                         |
+| 肌肉              | jīròu             | chicken                      |
+| 牛肉              | niúròu            | beef                         |
+| 羊肉              | yángròu           | lamb                         |
+| 盐                | yán               | salt                         |
+| 醋                | cù                | vinegar                      |
+| 糖                | táng              | sugar                        |
+| 辣椒              | làjiāo            | pepper                       |
+| 味精              | wèijīng           | (monosodium glutamate) MSG   |
+| 酸                | suān              | sour                         |
+| 甜                | tián              | sweet                        |
+| 苦                | kǔ                | bitter                       |
+| 辣                | là                | spicy; hot                   |
+| 咸                | xián              | salty                        |
+
+
+** Miscellaneous
+
+| Chinese Character | Pinyin             | Meaning                |
+|-------------------+--------------------+------------------------|
+| (一哥)潘子        | (yī gē) pān zi     | (a) plate              |
+| (一个)碗          | (yī gè) wǎn        | (a) bowl               |
+| (一双)筷子        | (yī shuāng) kuàizi | (a) pair of chopsticks |
+| 菜单              | càidān             | menu                   |
+| 点菜              | diǎncài            | to order food          |
+| 上菜              | shàng cài          | to serve food          |
+
+
+** Measure Words
+
+| Chinese Character | Pinyin    | Meaning                             |
+|-------------------+-----------+-------------------------------------|
+| 一把              | yī bǎ     | [MW] holdable, long and flat obj    |
+| 一杯              | yī bēi    | [MW] a cup/ glass of                |
+| 一个              | yī gè     | [MW] general, individual things     |
+| 一件              | yī jiàn   | [MW] upper body clothing, furniture |
+| 一瓶              | yī píng   | [MW] a bottle of                    |
+| 一双              | yī shuāng | [MW] a pair of                      |
+| 一条              | yī tiáo   | [MW] long, narrow, flexible obj     |
+| 一碗              | yī wǎn    | [MW] a bowl of                      |
+| 一位              | yī wèi    | [MW] polite classifier for people   |
+| 一张              | yī zhāng  | [MW] a flat or a paper obj          |
+| 一盘              | yī pán    | [MW] a plate of                     |
+
+
+** Various dishes
+
+| Chinese Character | Pinyin   | Meaning |
+|-------------------+----------+---------|
+| 冰茶              | bīng chá | ice tea |
+| 别的              | bié de   | other   |
+| 狗                | gǒu      | enough  |
+| 饿                | è        | hungry  |
+
+
+** Class between Holidays
+
+| Chinese Character | Pinyin              | Meaning               |
+|-------------------+---------------------+-----------------------|
+| 用                | yòng                | to use                |
+| 问问题            | wèn wèntí           | to ask questions      |
+| 回答              | huídá               | to answer             |
+| 师傅              | shīfù               | master worker/ chef   |
+| 极了              | jíle                | extremely             |
+| 忘了              | wàngle              | forget                |
+| 课文              | kèwén               | text                  |
+| 读                | dú                  | read                  |
+| 钱包              | qiánbāo             | wallet                |
+| 饭卡              | fàn kǎ              | meal card             |
+| (没有)错          | (méiyǒu) cuò        | (not) wrong           |
+| 清楚              | qīngchǔ             | clear                 |
+| 刚                | gāng                | just                  |
+| 卖完              | mài wán             | sold out              |
+| 功课              | gōngkè              | homework              |
+| 已经              | yǐjīng              | already               |
+| 多少钱            | duōshǎo qián        | how much?             |
+| X快Y毛            | X kuài Y máo        | X dollar Y cent       |
+| 卡                | kǎ                  | card                  |
+| 信用卡            | xìnyòngkǎ           | credit card           |
+| 刷卡              | shuākǎ              | swipe card            |
+| 一共多少钱        | yīgòng duōshǎo qián | alltogether how much? |
+| 找钱              | zhǎoqián            | to give change        |
+
+** Ask Directions and Activities revisited
+
+| Chinese Character | Pinyin              | Meaning              |
+|-------------------+---------------------+----------------------|
+| 上 (边儿)         | shàng (biānr)       | top                  |
+| 下 (边儿)         | xià (biānr)         | bottom               |
+| 前 (边儿)         | qián (biānr)        | front                |
+| 后 (边儿)         | hòu (biānr)         | back                 |
+| 左 (边儿)         | zuǒ (biānr)         | left side            |
+| 右 (边儿)         | yòu (biānr)         | right side           |
+| 里 (边儿)         | lǐ (biānr)          | inside               |
+| 外 (边儿)         | wài (biānr)         | outside              |
+| 东 (边儿)         | dōng (biānr)        | the east of          |
+| 西 (边儿)         | xī (biānr)          | the west of          |
+| 南 (边儿)         | nán (biānr)         | the south of         |
+| 北 (边儿)         | běi (biānr)         | the north of         |
+| 旁边              | páng biān           | side                 |
+| 中间              | zhōngjiān           | middle               |
+|-------------------+---------------------+----------------------|
+| 问路              | wèn lù              | asking directions    |
+| 运动              | yùndòng             | sports               |
+| (打) 篮球         | (dǎ) lánqiú         | (to play) basketball |
+| (踢) 足球         | (tī) zúqiú          | (to play) football   |
+| (做) 瑜伽         | (zuò) yújiā         | (to do) yoga         |
+| 场                | chǎng               | field                |
+| 运动场            | yùn dòng chǎng      | stadium              |
+| 篮球场            | lánqiú chǎng        | basketball court     |
+| 足球场            | zúqiú chǎng         | football field       |
+| 活动              | huódòng             | activity             |
+| 公司              | gōngsī              | company              |
+|-------------------+---------------------+----------------------|
+| 中心              | zhōngxīn            | center               |
+| 图书馆            | túshū guǎn          | library              |
+| 书店              | shūdiàn             | bookstore            |
+| 买                | mǎi                 | to buy               |
+| 咖啡店            | kāfēi diàn          | coffee shop          |
+| 办公室            | bàngōngshì          | office               |
+| 公共汽车站        | gōnggòng qìchē zhàn | bus stop             |
+| 赌场              | dǔchǎng             | casino               |
+|-------------------+---------------------+----------------------|
+| 离                | lí                  | from                 |
+| 远                | yuǎn                | far                  |
+| 近                | jìn                 | near                 |
+| 公司              | gōngsī              | company              |
+| 电脑              | diànnǎo             | computer             |
+| 床                | chuáng              | bed                  |
+| 枕头              | zhěntou             | pillow               |
+| 拖鞋              | tuōxié              | slippers             |
+| 宿舍              | sùshè               | dormitry             |
+
+** Places in Macau
+
+| Chinese Character | Pinyin      | Meaning                                   |
+|-------------------+-------------+-------------------------------------------|
+| 东北              | dōngběi     | northeast                                 |
+| 东南              | dōngnán     | southeast                                 |
+| 西北              | xīběi       | northwest                                 |
+| 西南              | xīnán       | southwest                                 |
+| 地方              | dìfāng      | place                                     |
+| 银河              | yínhé       | Galaxy                                    |
+| 威尼斯人          | wēinísī rén | Venetian                                  |
+| 赌场              | dǔchǎng     | casino                                    |
+| 商店              | shāngdiàn   | store                                     |
+| 大三巴            | dàsānbā     | the Ruins of the Cathedral of Saint Paul; |
+| 课文              | kèwén       | text                                      |
+| 知道              | zhīdào      | to know                                   |
+| 上网              | shàngwǎng   | Internet access                           |
+
+** Reviw Sunday
+
+| Chinese Character | Pinyin | Meaning |
+|-------------------+--------+---------|
+|                   | zhidao | to know |
+|                   |        |         |

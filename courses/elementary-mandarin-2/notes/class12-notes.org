@@ -1,0 +1,13 @@
+* Whiteboard copy
+
+pen | bi
+place | difang
+gongsi | company
+chengshi | city
+store, shop | shangdian
+
+name vs geng
+
+A bi B da A>B
+A bubi B A le B
+A meizou B da A<B

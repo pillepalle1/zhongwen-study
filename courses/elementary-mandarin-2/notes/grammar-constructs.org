@@ -1,0 +1,56 @@
+*  Uncategorized
+
+** ..A.. keshi ..B..
+..A.. but ..B..
+
+** yinwei ..A.. suoyi ..B..
+Because ..A.. therefore ..B..
+
+** yaoshi ..A.. jiu ..B..
+If ..A.. then ..B..
+
+**  búdàn (不但) ..A.. érqiě (而且) ..B..
+Not only ..A.. but also ..B..
+
+** ..A.. [bú (不)] huì (会) (verb)
++ ..A.. is likely to ..B..
++ ..A.. knows how to ..B..
+
+*  Comparisons
+
+** A hé (和) B yíyàng (adj.)
+
+** A bǐ (比) B adj.
+| yidianr | a little more |
+| deduo   | much more     |
+| gèng    | even more     |
+
+*  Particle Le (了)
+
+Indicates a *new situation* or the *change of state*
+----------------------------------------------------
+> Located at the end of the sentence
+
+tianqi nuanhuo le
+> The weather becomes warm
+
+Lǎoshī yǐqián yǒu hěnduō qián ，xiànzài méiyǒu qián le.
+> 老师以前有很多钱，现在没有钱了
+> Formerly the teacher had a lot of money. Now not have money anymore
+
+
+Completion of an action
+----------------------------------------------------
+> Located after the Verb
+
+*Question*
+> (subj.) V O 了 吗
+> Zuótiān nǐ xiě hànzì le ma?
+
+*Yes*
+> (subj.)  V O 了
+> Zuótiān wǒ xiě hànzì le
+
+*No*
+> (subj.) méiyǒu (没有) V O
+> Zuótiān wǒ méiyǒu xiě hànzì
