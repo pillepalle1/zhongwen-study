@@ -26,6 +26,7 @@ notes.org: notes
 clean:
 	rm -f .pdf-pages/*
 	rm -f .text-pages/*
+	rm -f pres/final-pres.{aux,log,nav,out,pdf,snm,toc}
 	rm -f notes.org
 	rm -f preview.pdf
 	rm -f slides.pdf
