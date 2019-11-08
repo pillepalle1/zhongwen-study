@@ -1,2 +1,5 @@
 # Exclude draft stages of the final presentation
 pres/
+
+# Exclude custom-built grammar and vocabulary slides
+grammar/
