@@ -1,0 +1,125 @@
+* Majors 
+
+| gong xue yuan                  | school of engineering         |
+| guan li xueyuan                | school of management          |
+| confucius institute            | kongzi xueyuan                |
+| faculty of arts and humanities | ren wen xue yuan              |
+| department                     | xi                            |
+| major                          | zhuanye                       |
+| li ke                          | sciences                      |
+| wen ke                         | the humanities                |
+| huaxue                         | chemistry                     |
+| jingji                         | economics                     |
+| diannao                        | diannao                       |
+| jinrong                        | finance                       |
+| wenxue                         | literature                    |
+| zhengzhi                       | politics                      |
+| zhexue                         | philosophy                    |
+| yuyan                          | language                      |
+| jin rong                       | banking                       |
+| zhao gongzuo                   | find a job                    |
+|--------------------------------+-------------------------------|
+| zhuanqian duo / shao           | to make money                 |
+| shuzi                          | numbers                       |
+| yinhang?                       | bank                          |
+| zhuan henduo qian              | make a lot of money           |
+| subj zhengtian dou do sth      | all day long                  |
+| bingren                        | patient                       |
+| actually                       | (budan) qi shi                |
+| pang                           | fat                           |
+| shou?                          | skinny                        |
+| hope                           | xiwang                        |
+|--------------------------------+-------------------------------|
+| A guan B (+ VP + de + shi)     | hoping                        |
+| A yaome VP1, yaome VP2         | either ... or ...             |
+| shuijao                        | go to sleep                   |
+| yijian                         | opinion                       |
+| you daoli                      | make sense                    |
+| yi yang                        | the same                      |
+| ting A de yijian               | listen to somebody's opinion  |
+| (mei) you yijian               | have an objection?            |
+| (fu) fangzu                    | (pay) rent                    |
+| mei ge yue                     | monthly                       |
+| xiaonei                        | on campus                     |
+| xiaowai                        | off campus                    |
+| dangzai                        | taipa                         |
+| luhuan                         | coloane                       |
+| fanqian                        | (MW) for meals                |
+| ziji zuofan                    | cook by myself                |
+| qu fanguanr chifan             | go to the restaurant to eat   |
+| mei tian                       | every day                     |
+| mei ge yue                     | every month                   |
+| sheng qian                     | to save money                 |
+| ba NP shengxialai              | save/ spend less NP           |
+| jianyi                         | suggestion                    |
+| A gei B num ge jianyi          | give somebody num suggestions |
+| sb de jianyi shi               | he suggestion is              |
+| A jianyi B do sth              | she uggesting                 |
+| shixi                          | intern(ship)                  |
+| jingyan                        | experience                    |
+| gongzuo jingyan                | work-experience               |
+| shenghuo jingyan               | life-experience               |
+| xuexi jingyan                  | ???-experience                |
+| shenqing                       | to apply                      |
+| jianli                         | resume                        |
+| xuewei?                        | degree                        |
+| zuigao xuewei                  | highest degree                |
+| biye de                        | graduate                      |
+| xingqu                         | interest                      |
+| buguo                          | but                           |
+| ta ... zheyang sb keyi  ...    | she ... this way can ...      |
+| zhidao jiaoshou                | ?advisor?                     |
+| lai                            | tired                         |
+| zhiliang                       | quality                       |
+| jiaqian                        |                               |
+| haochu                         | advantages                    |
+| kaolv kaolv                    | think about it                |
+| zheyang                        | this way                      |
+| kending                        | definitely                    |
+
+* Sentences
+
+xue li ke
+xue wen ke
+
+A gen B da jiaodao | have to deal/ work with ...
+(wo gen zhuzi da jiadao)
+
+laoshi gen xueshang da jiaodao
+
+mama xiwang ta xue like danshi qishi ta xiang xue wen ke
+
+he studz either school of engineering or school of management
+
+ta yaome du gongxue yuan yaome du guanli xueyuan.
+
+baba de xiao wang du yanjiusheng
+mama de xiao wang 
+
+ni juede zenme zuo keyi ba qian shengxialai?
+?how do you think you can save money?
+
+xian zhao yi ge difang shixi
+
+ni shixi guo ma?
+ni zai nar shixi guo?
+
+--------------------------------------------------------------------------------
+
+ni de zuigao xuewei shi shenme?
+(What is your highest degree?)
+
+ni de zhuanye shi shenme
+(What is your major?)
+
+ni shi shenme shihou biye de / ni shenmye shihou biye
+(When do you graduate?)
+
+ni de gongzuo jingyan shi shenme
+(What is your work experience?)
+
+ni de shixi jingyan shi shenme
+(What is your internship-experience?)
+
+ni dui shenme you xingqu?
+(What are you interested in?)
